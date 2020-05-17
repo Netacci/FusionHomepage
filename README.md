@@ -1,0 +1,1 @@
+This project was created mostly with the use of CSS grid, I have always struggled to understand the concept of CSS Grid, so I decided to use it for this project to improve my knowledge on the usage of CSS grids.
