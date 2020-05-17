@@ -1034,12 +1034,12 @@
   }
 
   .boot {
-    grid-template-columns: 82% 20%;
+    grid-template-columns: 95% 20%;
     justify-self: center;
   }
 
   .boot-right {
-    grid-template-columns: 20% 80%;
+    grid-template-columns: 20% 95%;
   }
 
   .team-p1 {
