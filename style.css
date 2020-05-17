@@ -1042,28 +1042,6 @@
     grid-template-columns: 20% 80%;
   }
 
-  /* .team-wrapper {
-  grid-template-columns: 1fr;
-  grid-template-rows: 200px 200px 200px 200px;
-  justify-items: center;
-}
-
-.team1 {
-  margin-left: 0;
-}
-
-.team2 {
-  grid-row: 2;
-}
-
-.team3 {
-  grid-row: 3;
-}
-
-.team4 {
-  grid-row: 4;
-} */
-
   .team-p1 {
     width: 81%;
   }
