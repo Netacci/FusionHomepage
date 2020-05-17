@@ -990,7 +990,8 @@
   }
 
   .stat-btn {
-    margin-top: 17%;
+    margin-top: 24%;
+    margin-left: 0;
   }
 
   .stat-img {
@@ -1033,11 +1034,12 @@
   }
 
   .boot {
-    grid-template-columns: 355px 100px;
+    grid-template-columns: 82% 20%;
+    justify-self: center;
   }
 
   .boot-right {
-    grid-template-columns: 100px 355px;
+    grid-template-columns: 20% 80%;
   }
 
   /* .team-wrapper {
@@ -1086,6 +1088,10 @@
   .review {
     margin-top: 5%;
 
+  }
+
+  .dots {
+    display: none;
   }
 
   .trial-wrapper {
@@ -1169,6 +1175,14 @@
   .addy-p {
     margin-left: 2%;
     margin-top: 2%;
+  }
+
+  .copy-p {
+    width: 100%;
+  }
+
+  .media-icons {
+    margin-top: 70%;
   }
 
 
